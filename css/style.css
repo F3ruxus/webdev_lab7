@@ -21,13 +21,29 @@ body{
   margin-bottom: 30px;
 }
 
+#planets th {
+  background-color: #4da6ff;
+  color: #0b0e1a;
+  padding: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+#planets td {
+  padding: 12px;
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #374151;
+}
+
 #planets img {
   width: 60px;
   height: 60px;
   border-radius: 50%;
 }
 
-td, th {
+/* td, th {
 	border: 1px solid;
-}
+} */
   
