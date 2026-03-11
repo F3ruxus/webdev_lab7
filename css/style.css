@@ -22,7 +22,8 @@ body{
 }
 
 #planets {
-  margin:0 auto;
+  width: 90%;
+  margin:20px auto;
 }
 
 #planets th {
