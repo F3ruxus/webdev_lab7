@@ -9,14 +9,14 @@ body{
 #title {
   text-align: center;
   font-size: 40px;
-  color: #4da6ff;
+  color: #00df8d;
   margin-bottom: 5px;
 }
 
 .subtitle {
   text-align: center;
   font-style: italic;
-  color: #b3c6ff;
+  color: #568475;
   margin-top: 0;
   margin-bottom: 30px;
 }
@@ -28,7 +28,7 @@ body{
 }
 
 #planets th {
-  background-color: #4da6ff;
+  background-color: #7FFFD4;
   color: #0b0e1a;
   padding: 15px;
   font-weight: bold;
