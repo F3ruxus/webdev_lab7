@@ -23,7 +23,8 @@ body{
 
 #planets {
   width: 90%;
-  margin:20px auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #planets th {
